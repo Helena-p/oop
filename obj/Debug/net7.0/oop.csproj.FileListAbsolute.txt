@@ -1,0 +1,14 @@
+/Users/datorn/Lexicon/Assignments/assignments-week2/oop/bin/Debug/net7.0/oop
+/Users/datorn/Lexicon/Assignments/assignments-week2/oop/bin/Debug/net7.0/oop.deps.json
+/Users/datorn/Lexicon/Assignments/assignments-week2/oop/bin/Debug/net7.0/oop.runtimeconfig.json
+/Users/datorn/Lexicon/Assignments/assignments-week2/oop/bin/Debug/net7.0/oop.dll
+/Users/datorn/Lexicon/Assignments/assignments-week2/oop/bin/Debug/net7.0/oop.pdb
+/Users/datorn/Lexicon/Assignments/assignments-week2/oop/obj/Debug/net7.0/oop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/datorn/Lexicon/Assignments/assignments-week2/oop/obj/Debug/net7.0/oop.AssemblyInfoInputs.cache
+/Users/datorn/Lexicon/Assignments/assignments-week2/oop/obj/Debug/net7.0/oop.AssemblyInfo.cs
+/Users/datorn/Lexicon/Assignments/assignments-week2/oop/obj/Debug/net7.0/oop.csproj.CoreCompileInputs.cache
+/Users/datorn/Lexicon/Assignments/assignments-week2/oop/obj/Debug/net7.0/oop.dll
+/Users/datorn/Lexicon/Assignments/assignments-week2/oop/obj/Debug/net7.0/refint/oop.dll
+/Users/datorn/Lexicon/Assignments/assignments-week2/oop/obj/Debug/net7.0/oop.pdb
+/Users/datorn/Lexicon/Assignments/assignments-week2/oop/obj/Debug/net7.0/oop.genruntimeconfig.cache
+/Users/datorn/Lexicon/Assignments/assignments-week2/oop/obj/Debug/net7.0/ref/oop.dll
