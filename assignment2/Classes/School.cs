@@ -6,10 +6,10 @@ namespace oop
     partial class School
     {
         public string Name { get; set; }
-        private List<Student> Students { get; set; }
-        private Dictionary<String, Course> Courses { get; set; }
-        private List<Teacher> Teachers { get; set; }
-        private List<Grade> Grades { get; set; }
+        public List<Student> Students { get; set; }
+        public Dictionary<String, Course> Courses { get; set; }
+        public List<Teacher> Teachers { get; set; }
+        public List<Grade> Grades { get; set; }
 
         public School(string name, List<Student> students, Dictionary<string, Course> courses, List<Teacher> teachers, List<Grade> grades)
         {
@@ -84,12 +84,14 @@ namespace oop
             }
             return hasCourse;
         }
+
         public void AddTeacher(string firstName, string lastName, string dateOfBirth)
         {
             var teacher = new Teacher(firstName, lastName, dateOfBirth);
             Teachers.Add(teacher);
             WriteLine($"Teacher successfully added!");
         }
+
         public void RemoveTeacher(string teacherId)
         {
             if (string.IsNullOrWhiteSpace(teacherId))

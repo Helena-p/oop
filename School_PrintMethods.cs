@@ -10,11 +10,13 @@ namespace oop
             foreach (var teacher in Teachers)
                 WriteLine(teacher);
         }
+
         public void PrintAllStudents()
         {
             foreach (var student in Students)
                 WriteLine(student);
         }
+
         public void PrintAllCourses()
         {
             foreach (var item in Courses)
@@ -22,6 +24,7 @@ namespace oop
                 WriteLine(item);
             }
         }
+
         public void PrintAllGrades()
         {
             foreach (var item in Grades)
@@ -29,6 +32,7 @@ namespace oop
                 WriteLine(item);
             }
         }
+
         public override string ToString()
         {
             // Format the courses dict

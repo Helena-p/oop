@@ -28,7 +28,6 @@ namespace oop
 
         public override string ToString()
         {
-            // Format the students list
             StringBuilder students = new StringBuilder("Students:\n");
             foreach (Student student in Students)
             {
